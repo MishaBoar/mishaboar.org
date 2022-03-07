@@ -21,9 +21,9 @@ theme = 'LoveIt'
       # URL of avatar shown in home page
       avatarURL = "/images/avatar.jpg"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = ""
+      title = "Half man, half boar, all cannoli. And Dogecoin, of course."
       # subtitle shown in home page
-      subtitle = "Dogecoin news. Unbiased, clear, no hype - encouraging day to day use. Ask me questions. The dip? But a scratch."
+      subtitle = "Dogecoin news, mostly on Twitter. Dogecoin node operator. Unbiased, clear, no hype - encouraging day to day use. Ask me questions. The dip? But a scratch."
       # whether to use typeit animation for subtitle
       typeit = false
       # whether to show social links
@@ -48,7 +48,7 @@ theme = 'LoveIt'
     # LoveIt NEW | 0.2.0 Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "/images/avatar.jpg"
+      logo = "/images/avatarcircle.png"
       # title name
       name = "Mishaboar"
       # you can add extra information before the name (HTML format is supported), such as icons
@@ -69,8 +69,18 @@ theme = 'LoveIt'
     RSS = true # LoveIt NEW | 0.2.0
 
 
-
-
+[menu]
+  [[menu.main]]
+    identifier = "twitter"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Twitter"
+    url = "https://twitter.com/mishaboar/"
+    # title will be shown when you hover on this menu link
+    title = "On Twitter"
+    weight = 1
 
 # Markup related configuration in Hugo
 [markup]
