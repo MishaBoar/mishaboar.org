@@ -1,6 +1,6 @@
 # 001: Github
 github:
-  Weight: 1
+  Weight: 30
   Prefix: https://github.com/
   Title: GitHub
   Icon:
@@ -16,7 +16,7 @@ linkedin:
 
 # 003: Twitter
 twitter:
-  Weight: 3
+  Weight: 1
   Prefix: https://twitter.com/
   Title: Twitter
   Icon:
