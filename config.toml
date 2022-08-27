@@ -81,6 +81,17 @@ theme = 'LoveIt'
     # title will be shown when you hover on this menu link
     title = "On Twitter"
     weight = 1
+  [[menu.main]]
+    identifier = "nodes"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Nodes"
+    url = "https://nodes.dogebeard.com/"
+    # title will be shown when you hover on this menu link
+    title = "Nodes 1-5"
+    weight = 2
 
 # Markup related configuration in Hugo
 [markup]
