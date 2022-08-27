@@ -32,7 +32,7 @@ theme = 'LoveIt'
       disclaimer = ""
     # Home page posts
     [params.home.posts]
-      enable = true
+      enable = false
       # special amount of posts in each home posts page
       paginate = 6
       # LoveIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
