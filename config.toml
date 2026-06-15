@@ -4,6 +4,10 @@ languageCode = 'en-us'
 title = 'Mishaboar'
 theme = 'LoveIt'
 
+[author]
+  name = "Mishaboar"
+  link = "https://twitter.com/mishaboar/"
+
 [params]
   # LoveIt theme version
   version = "0.2.X"
@@ -58,6 +62,16 @@ theme = 'LoveIt'
       # LoveIt NEW | 0.2.5 whether to use typeit animation for title name
       typeit = false
 
+  # Footer config
+  [params.footer]
+    enable = true
+    # whether to show copyright info
+    copyright = true
+    # whether to show the author
+    author = true
+    # site creation time (start year of the copyright range)
+    since = 2022
+
 
 
  # Social config about the author
@@ -81,17 +95,6 @@ theme = 'LoveIt'
     # title will be shown when you hover on this menu link
     title = "On Twitter"
     weight = 1
-  [[menu.main]]
-    identifier = "nodes"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "Nodes"
-    url = "https://nodes.dogebeard.com/"
-    # title will be shown when you hover on this menu link
-    title = "Nodes 1-5"
-    weight = 2
 
 # Markup related configuration in Hugo
 [markup]
