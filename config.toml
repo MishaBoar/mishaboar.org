@@ -33,7 +33,7 @@ theme = 'LoveIt'
       # whether to show social links
       social = true
       # LoveIt NEW | 0.2.0 disclaimer (HTML format is supported)
-      disclaimer = ""
+      disclaimer = "Looking to donate DOGE for Gaza civilian relief? <a href=\"/gaza-donations/\">See the guide here</a>."
     # Home page posts
     [params.home.posts]
       enable = false
@@ -95,6 +95,14 @@ theme = 'LoveIt'
     # title will be shown when you hover on this menu link
     title = "On Twitter"
     weight = 1
+  [[menu.main]]
+    identifier = "gaza-donations"
+    pre = ""
+    post = ""
+    name = "Gaza Relief"
+    url = "/gaza-donations/"
+    title = "Dogecoin donations for Gaza civilian relief"
+    weight = 2
 
 # Markup related configuration in Hugo
 [markup]
