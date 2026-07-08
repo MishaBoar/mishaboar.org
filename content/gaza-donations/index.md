@@ -5,7 +5,7 @@ draft: false
 author: Mishaboar
 ---
 
-**Last researched:** 15 June 2026
+**Last researched:** 8 July 2026
 
 Some have asked for a sane way to donate **Dogecoin** for civilian relief in Gaza without sending coins to random wallet addresses or trusting screenshots on social media.
 
@@ -37,7 +37,7 @@ The organizations below are listed in the order I would present them on this pag
 | **World Food Program USA** | Large-scale food assistance: food parcels, hot meals, bread, cash assistance, nutrition support, logistics | **$85.53** |
 | **Action Against Hunger USA** | Hunger and nutrition relief: hot meals, fresh/dry food, hygiene kits, shelter connections, clean water, malnutrition programs | **$85.53** |
 
-\*Estimate assumes a 3.9% The Giving Block/Gemini-style crypto processing fee and then applies the published program-spending ratio. It does not include the donor's separate Dogecoin network fee and is not a Gaza-only audit.
+\*Estimate assumes a 3.9% The Giving Block/Gemini-style crypto processing fee and then applies the published program-spending ratio. It is not a Gaza-only audit.
 
 ---
 
@@ -47,13 +47,13 @@ The organizations below are listed in the order I would present them on this pag
 
 **Estimated relief effort:** About **$86.49** per $100 DOGE after the assumed 3.9% processor fee. If the gift is properly restricted to a Gaza medical response, Direct Relief's stated restriction policy suggests up to about **$96.10** of the post-fee gift is used on that response's related expenses rather than fundraising.
 
-**Why it is here:** This is the kind of aid I usually like to see first: concrete medical goods, controlled logistics, and support to clinics and hospitals rather than loose cash. Direct Relief reported a $3.7M Gaza medical-aid delivery, support for International Medical Corps field hospitals and Project HOPE primary-care points, and more than $43M in Gaza support over the prior 12 months.
+**Why it is here:** This is the kind of aid I usually like to see first: concrete medical goods, controlled logistics, and support to clinics and hospitals rather than loose cash. Direct Relief reported a $3.72M / 15.97-ton Gaza medical-aid delivery supporting three International Medical Corps hospital facilities and six Project HOPE primary health-care points, plus more than $43M in Gaza support over the prior 12 months.
 
 **What to keep in mind:** Best used with a clear restriction such as "Gaza medical aid / medicines and medical supplies." Medical aid still depends on final-mile partners and access approvals, but it is generally less fungible than cash.
 
 **How to donate:** Use [Direct Relief on The Giving Block](https://thegivingblock.com/donate/direct-relief/). Confirm **DOGE** appears in checkout and add a Gaza/medical designation where possible.
 
-**Sources:** [The Giving Block](https://thegivingblock.com/donate/direct-relief/) - [CharityWatch](https://www.charitywatch.org/charities/direct-relief-direct-relief-foundation) - [Gaza medical aid delivery](https://www.directrelief.org/2026/05/direct-relief-gaza-medical-aid-delivery/)
+**Sources:** [The Giving Block](https://thegivingblock.com/donate/direct-relief/) - [CharityWatch](https://www.charitywatch.org/charities/direct-relief-direct-relief-foundation) - [Finance & policies](https://www.directrelief.org/about/finance/) - [Gaza medical aid delivery](https://www.directrelief.org/2026/05/direct-relief-gaza-medical-aid-delivery/)
 
 ---
 
@@ -95,7 +95,7 @@ The organizations below are listed in the order I would present them on this pag
 
 **Estimated relief effort:** About **$87.45** per $100 DOGE after the assumed 3.9% processor fee and CharityWatch's 91% program-spending figure.
 
-**Why it is here:** Cooked meals and bread are practical, immediate, and less cash-like than vouchers or direct transfers. WCK reported that since 2023 its Gaza teams served more than 272M meals, 73M loaves of bread, and 6.4M gallons of water. WCK also said in May 2026 it was still cooking and delivering hundreds of thousands of hot meals daily to families in Gaza.
+**Why it is here:** Cooked meals and bread are practical, immediate, and less cash-like than vouchers or direct transfers. WCK reported that as of 20 May 2026 its Gaza teams had served more than 360M meals since the start of the conflict and were still cooking and delivering hundreds of thousands of hot meals daily to families in Gaza.
 
 **What to keep in mind:** Food operations depend on local kitchens, staff, truck access, and distribution points, so final-mile diversion/coercion risk is higher than controlled medical supply shipments. It is still one of the stronger food-relief options on this list.
 
@@ -111,7 +111,7 @@ The organizations below are listed in the order I would present them on this pag
 
 **Estimated relief effort:** About **$85.53** per $100 DOGE after the assumed 3.9% processor fee and WFP USA's reported 89% program-efficiency ratio. Treat this as an estimate because WFP USA is a fundraising/support entity for WFP.
 
-**Why it is here:** Scale and logistics. WFP reports reaching around 1.6M people each month in Gaza with food parcels, hot meals, bread, and cash. It also supports bakeries, community kitchens, malnutrition prevention, and child nutrition activities.
+**Why it is here:** Scale and logistics. WFP reports reaching around 1.6M people each month in Gaza with food parcels, hot meals, bread, and cash. It also supports community kitchens, 26 bakeries, digital cash transfers, malnutrition prevention, and fortified snacks for children in temporary learning spaces.
 
 **What to keep in mind:** This has greater final-mile exposure than medical shipments because it includes food commodities, retailers, bakeries, and cash/digital transfers. It remains one of the stronger options when the main goal is large-scale hunger relief.
 
